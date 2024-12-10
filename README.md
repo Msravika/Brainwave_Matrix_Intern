@@ -1,2 +1,9 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+# Super-Market-Sales-Analysis
+## Project Objective
+Identify sales patterns and trends to improve decision-making.
+Analyze performance by product category, time, and customer demographics.
+
+
+
+
+
